@@ -415,7 +415,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-center-for-data-innovation-featured-our-research-forecasting-climate-impacts-on-infrastructure",
           title: 'The Center for Data Innovation featured our research: Forecasting Climate Impacts on Infrastructure....',
           description: "",
-          section: "News",},{id: "news-i-will-be-presenting-at-agu-2025-this-december-come-by-to-learn-about-our-work-on-rising-u-s-power-grid-vulnerability-to-extreme-weather-a-multi-decadal-analysis-looking-forward-to-connecting",
+          section: "News",},{id: "news-i-will-be-presenting-at-agu-2025-this-december-come-by-to-learn-about-our-work-on-rising-u-s-power-grid-vulnerability-to-extreme-weather-a-multi-decadal-analysis-capturing-adaptive-human-responses-to-extreme-weather-events-with-large-language-models-advancing-high-school-youth-s-energy-literacy-through-authentic-exploration-of-household-energy-data-looking-forward-to-connecting",
           title: 'I will be presenting at AGU 2025 this December! Come by to learn...',
           description: "",
           section: "News",},{id: "news-our-analysis-linking-burying-power-lines-to-reduction-of-power-outages-was-featured-by-stanford-doerr-school-of-sustainability-and-stanford-news-this-analysis-built-partially-upon-our-paper-presented-at-ieee-pes-general-meeting-2024",
