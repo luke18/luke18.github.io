@@ -5,8 +5,8 @@ permalink: /
 subtitle: Energy, climate, data. Ph.D., Postdoc @ <a href='https://cee.stanford.edu/'>Stanford CEE</a>
 
 profile:
-  align: right 
-  image: tao_headshot.png
+  align: right
+  image: tao_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
