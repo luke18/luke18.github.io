@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-at-agu-2025-this-december-come-by-to-learn-about-our-work-on-rising-u-s-power-grid-vulnerability-to-extreme-weather-a-multi-decadal-analysis-looking-forward-to-connecting",
           title: 'I will be presenting at AGU 2025 this December! Come by to learn...',
           description: "",
-          section: "News",},{id: "news-our-analysis-linking-burying-power-lines-to-reduction-of-power-outages-was-featured-by-stanford-doerr-school-of-sustainability-this-analysis-built-partially-upon-our-paper-presented-at-ieee-pes-general-meeting-2024",
+          section: "News",},{id: "news-our-analysis-linking-burying-power-lines-to-reduction-of-power-outages-was-featured-by-stanford-doerr-school-of-sustainability-and-stanford-news-this-analysis-built-partially-upon-our-paper-presented-at-ieee-pes-general-meeting-2024",
           title: 'Our analysis linking burying power lines to reduction of power outages was featured...',
           description: "",
           section: "News",},{id: "projects-project-1",
