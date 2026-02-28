@@ -4,7 +4,6 @@ permalink: /assets/pdf/CV.pdf
 title: cv
 nav: true
 nav_order: 3
-
 # TO REVERT: Uncomment the lines below and comment out the permalink above
 # This will restore the CV page layout with embedded PDF viewer
 # layout: cv
