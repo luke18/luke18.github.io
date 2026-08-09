@@ -1,7 +1,0 @@
-[project]
-name = "luke18-github-io"
-version = "0.1.0"
-description = "Personal academic homepage of Tao Sun (static site; Python only used for local tooling via uv)"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
