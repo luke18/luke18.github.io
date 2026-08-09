@@ -42,8 +42,8 @@ npm packages, CDNs, or build tooling.
 │                            #   from the homepage — owner prefers Google Scholar)
 ├── .nojekyll                # tells GitHub Pages not to run Jekyll
 ├── robots.txt
-├── CLAUDE.md
-└── README.md
+├── CHANGELOG.md             # running log of all changes made to this repo
+└── CLAUDE.md
 ```
 
 ## Conventions
@@ -59,6 +59,10 @@ npm packages, CDNs, or build tooling.
   `firstauthorYYYY-venue-shortslug.pdf`.
 - **Style**: single accent color (`--accent`, SJTU red) defined in `:root`; serif
   headings, sans-serif body. Preserve the clean, minimal look.
+- **Changelog**: record every change made to the repo — content edits, structural
+  changes, and tooling — as a dated entry at the top of its month section in
+  `CHANGELOG.md` (newest first).
 - **Maintain this file**: update CLAUDE.md when the project structure or conventions
   change (new pages, moved folders, new tooling). Do not log routine content edits
-  (news items, publications) here.
+  (news items, publications) here — those go in `CHANGELOG.md`. There is no separate
+  README; this file is the project documentation.
